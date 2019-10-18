@@ -1,5 +1,5 @@
 # healthydeveloper
-Running marathon for developers
+"Sağlam proqramçı" marathon-running for developers in Baku
 
 For being part of the activity, please put your name|email below and send a pull request.
 I will inform you by email about marathons-running.
