@@ -7,3 +7,4 @@ Participation is free.
 
 1. Nijat Amrastanov | namrastanov@gmail.com
 2. Vusal Alishov    | vusal.alishov@gmail.com
+3. Natig Mamishov   | natiqnatiqoglu@gmail.com
