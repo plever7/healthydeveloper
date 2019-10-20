@@ -11,3 +11,4 @@ Participation is free.
 4. Elcan Hamidov    | Elcan.hemidov.1999@mail.ru
 5. Vuqar Aqayev     | vaqayev3@gmail.com
 6. Namiq Bayramov   | namiqbayramov14@gmail.com 
+7. Sarvan Ibishov   | plever007@gmail.com
